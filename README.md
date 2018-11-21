@@ -53,3 +53,8 @@ Once bootstrapped run ./configure
 # Tests
 
 There are tests in the test/ subfolder. They will be built automatically. There is no special test runner. You can run each of the test cases manually to check whether the code is working properly.
+
+# References
+
+(http://web.mit.edu/freebsd/head/contrib/wpa/src/utils/base64.c)
+(https://github.com/freebsd/freebsd/blob/master/contrib/wpa/src/utils/base64.c)
